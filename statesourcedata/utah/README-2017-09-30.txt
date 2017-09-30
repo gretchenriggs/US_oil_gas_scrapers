@@ -1,0 +1,19 @@
+2017-09-30
+created by Geo Dancer
+files listed in this folder today come from:
+https://github.com/greg-lackey/US_oil_gas_scrapers
+
+-a----        9/30/2017   3:07 PM          85545 DNROilGasFields_gdb.zip
+-a----        9/30/2017   3:07 PM          80521 DNROilGasFields_shp.zip
+-a----        9/30/2017   3:01 PM        5583101 DOGMOilAndGasResources_gdb.zip
+-a----        9/30/2017   3:02 PM        6605132 DOGMOilAndGasResources_shp (1).zi
+-a----        9/30/2017   3:02 PM        6605132 DOGMOilAndGasResources_shp.zip
+-a----        9/30/2017   3:03 PM        1035828 OilGasWells_DownHoles_gdb.zip
+-a----        9/30/2017   3:03 PM        1152268 OilGasWells_DownHoles_shp.zip
+-a----        9/30/2017   3:03 PM         441037 OilGasWells_Paths_gdb.zip
+-a----        9/30/2017   3:03 PM         356109 OilGasWells_Paths_shp.zip
+-a----        9/30/2017   3:05 PM           6005 SGID10.ENERGY.DNROilGasFields.xml
+-a----        9/30/2017   3:08 PM           5979 SGID10.ENERGY.DNROilGasUnits.xml
+-a----        9/30/2017   2:02 PM          42643 US_oil_gas_scrapers-master.zip
+
+====-----=====-----=====-----=====-----=====

@@ -1,0 +1,164 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Utah Automated Geographic Reference Center (AGRC)</origin>
+<pubdate>20170907</pubdate>
+<title>DNR Oil Gas Fields</title>
+<onlink>https://gis.utah.gov/data/energy</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+Utah Oil and Gas Field Polygons from the Utah Department of Natural Resources, Oil Gas and Mining Division. http://ogm.utah.gov
+</abstract>
+<purpose>
+Depict Oil and Gas Field polygons. This dataset will be updated as new information is provided by DNR-OGM Data last updated May 2016.
+</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>2017</caldate>
+</sngdate>
+</timeinfo>
+<current/>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-113.424037</westbc>
+<eastbc>-108.908098</eastbc>
+<northbc>41.875938</northbc>
+<southbc>36.988369</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>oil</themekey>
+<themekey>gas</themekey>
+<themekey>well</themekey>
+<themekey>fields</themekey>
+<themekey>mining</themekey>
+<themekey>natural resources</themekey>
+<themekey>lease</themekey>
+<themekey>extraction</themekey>
+<themekey>DOGM</themekey>
+</theme>
+<place>
+<placekt/>
+<placekey>Utah</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>
+Data released to the Receiving Agency (RA) remains the property of the originating data source (see Source_Information) and cannot be reproduced for sale by the RA without the written consent of that data source. Redistribution of datasets unchanged as obtained from the AGRC and without fee is allowed. Any hardcopies utilizing these data sets shall clearly indicate their source. If the RA has modified the data in any way, they are obligated to describe the types of modifications they have performed on the hardcopy map. RA specifically agrees not to misrepresent these data sets, nor to imply that changes they made were approved by the AGRC. The Utah Automated Geographic Reference Center (AGRC) has adopted the following spatial data disclaimer to be explicitly included or referenced in all geospatial data, mapping products, and services created or hosted at AGRC including the contents of State Geographic Information Database (SGID). This product is for informational purposes and may not have been prepared for, or be suitable for legal, engineering, or surveying purposes. Users of this information should review or consult the primary data and information sources to ascertain the usability of the information. AGRC provides these data in good faith and shall in no event be liable for any incorrect results, any lost profits and special, indirect or consequential damages to any party, arising out of or in connection with the use or the inability to use the data hereon or the services provided. AGRC provides these data and services as a convenience to the public. Further more, AGRC reserves the right to change or revise published data and/or these services at any time.Furthermore, it is the official policy of the AGRC: · that the adopted disclaimer be used on all hard copy maps produced from geospatial data, and that the date and source of the data be included on the map; · that spatial data producers be allowed to extend the adopted disclaimer with additional language further defining the limits of their liability; · that a more robust disclaimer may be used in conjunction with any and all geospatial data published on the Internet, on a separate page preceding access to the data, with an accept/reject option for users; · that standardized metadata be included with any distribution of all geospatial data; and · that the disclaimer above may be used as a blanket disclaimer for documents containing a number of small maps.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Utah AGRC</cntorg>
+<cntper/>
+</cntorgp>
+<cntpos/>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>
+Utah Automated Geographic Reference 1 State Office Building, Room 5130
+</address>
+<city>Salt Lake City</city>
+<state>UT</state>
+<postal>84114</postal>
+</cntaddr>
+<cntvoice>801-538-3665</cntvoice>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Utah AGRC</cntorg>
+<cntper/>
+</cntorgp>
+<cntpos/>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>
+Utah Automated Geographic Reference 1 State Office Building, Room 5130
+</address>
+<city>Salt Lake City</city>
+<state>UT</state>
+<postal>84114</postal>
+</cntaddr>
+<cntvoice>801-538-3665</cntvoice>
+</cntinfo>
+</distrib>
+<distliab/>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Downloadable File Geodatabase</formname>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>
+https://drive.google.com/a/utah.gov/uc?id=0ByStJjVZ7c7mdm9kUnpGdTZHbk0&export=download
+</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<digform>
+<digtinfo>
+<formname>Downloadable Shapefile</formname>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>
+https://drive.google.com/a/utah.gov/uc?id=0ByStJjVZ7c7mVHhzUHJGelZLWFk&export=download
+</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees/>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd/>
+<metrd/>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Utah AGRC</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>
+Utah Automated Geographic Reference 1 State Office Building, Room 5130
+</address>
+<city>Salt Lake City</city>
+<state>UT</state>
+<postal>84114</postal>
+<country/>
+</cntaddr>
+<cntvoice>801-538-3665</cntvoice>
+<cntemail/>
+</cntinfo>
+</metc>
+<metstdn>FGDCContentStandardforDigitalGeospatialMetadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>
